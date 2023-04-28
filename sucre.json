@@ -1,0 +1,31 @@
+{
+  "deparment": "SUCRE",
+  "cities": {
+    "BUENAVISTA": "buenavista_sucre",
+    "CAIMITO": "caimito_sucre",
+    "CHALAN": "chalán_sucre",
+    "COLOSO": "colosó_sucre",
+    "COROZAL": "corozal_sucre",
+    "COVEÑAS": "coveñas_sucre",
+    "EL ROBLE": "elroble_sucre",
+    "GALERAS": "galeras_sucre",
+    "GUARANDA": "guaranda_sucre",
+    "LA UNION": "launión_sucre",
+    "LOS PALMITOS": "lospalmitos_sucre",
+    "MAJAGUAL": "majagual_sucre",
+    "MORROA": "morroa_sucre",
+    "OVEJAS": "ovejas_sucre",
+    "PALMITO": "palmito_sucre",
+    "SAMPUES": "sampués_sucre",
+    "SAN BENITO ABAD": "sanbenitoabad_sucre",
+    "SAN JUAN DE BETULIA": "sanjuandebetulia_sucre",
+    "SAN MARCOS": "sanmarcos_sucre",
+    "SAN ONOFRE": "sanonofre_sucre",
+    "SAN PEDRO": "sanpedro_sucre",
+    "SANTIAGO DE TOLU": "santiagodetolú_sucre",
+    "SINCE": "sincé_sucre",
+    "SINCELEJO": "sincelejo_sucre",
+    "SUCRE": "sucre_sucre",
+    "TOLUVIEJO": "tolúviejo_sucre"
+  }
+}

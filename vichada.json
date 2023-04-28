@@ -1,0 +1,9 @@
+{
+  "deparment": "VICHADA",
+  "cities": {
+    "CUMARIBO": "cumaribo_vichada",
+    "LA PRIMAVERA": "laprimavera_vichada",
+    "PUERTO CARREÑO": "puertocarreño_vichada",
+    "SANTA ROSALIA": "santarosalía_vichada"
+  }
+}

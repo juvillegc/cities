@@ -1,0 +1,12 @@
+{
+  "deparment": "ARAUCA",
+  "cities": {
+    "ARAUCA": "arauca_ara",
+    "ARAUQUITA": "arauquita_ara",
+    "CRAVO NORTE": "cravonorte_ara",
+    "FORTUL": "fortul_ara",
+    "PUERTO RONDON": "puertorond\u00f3n_ara",
+    "SARAVENA": "saravena_ara",
+    "TAME": "tame_ara"
+  }
+}

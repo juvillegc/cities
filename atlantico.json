@@ -1,0 +1,28 @@
+{
+  "deparment": "ATLANTICO",
+  "cities": {
+    "BARANOA": "baranoa_atl",
+    "BARRANQUILLA": "barranquilla_atl",
+    "CAMPO DE LA CRUZ": "campodelacruz_atl",
+    "CANDELARIA": "candelaria_atl",
+    "GALAPA": "galapa_atl",
+    "JUAN DE ACOSTA": "juandeacosta_atl",
+    "LURUACO": "luruaco_atl",
+    "MALAMBO": "malambo_atl",
+    "MANATI": "manati_atl",
+    "PALMAR DE VARELA": "palmardevarela_atl",
+    "PIOJO": "piojó_atl",
+    "POLONUEVO": "polonuevo_atl",
+    "PONEDERA": "ponedera_atl",
+    "PUERTO COLOMBIA": "puertocolombia_atl",
+    "REPELON": "repelon_atl",
+    "SABANAGRANDE": "sabanagrande_atl",
+    "SABANALARGA": "sabanalarga_atl",
+    "SANTA LUCIA": "santalucia_atl",
+    "SANTO TOMAS": "santotomas_atl",
+    "SOLEDAD": "soledad_atl",
+    "SUAN": "suan_atl",
+    "TUBARA": "tubara_atl",
+    "USIACURI": "usiacuri_atl"
+  }
+}

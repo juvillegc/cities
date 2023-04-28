@@ -1,0 +1,21 @@
+{
+  "deparment": "CAQUETA",
+  "cities": {
+    "ALBANIA": "albania_caq",
+    "BELEN DE LOS ANDAQUIES": "beléndelosandaquies_caq",
+    "CARTAGENA DEL CHAIRA": "cartagenadelchairá_caq",
+    "CURILLO": "curillo_caq",
+    "EL DONCELLO": "eldoncello_caq",
+    "EL PAUJIL": "elpaujil_caq",
+    "FLORENCIA": "florencia_caq",
+    "LA MONTAÑITA": "lamontañita_caq",
+    "MORELIA": "morelia_caq",
+    "PUERTO MILAN": "puertomilán_caq",
+    "PUERTO RICO": "puertorico_caq",
+    "SAN JOSE DEL FRAGUA": "sanjosédelfragua_caq",
+    "SAN VICENTE DEL CAGUAN": "sanvicentedelcaguán_caq",
+    "SOLANO": "solano_caq",
+    "SOLITA": "solita_caq",
+    "VALPARAISO": "valparaíso_caq"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "deparment": "CESAR",
+  "cities": {
+    "AGUACHICA": "aguachica_ces",
+    "AGUSTIN CODAZZI": "agustíncodazzi_ces",
+    "ASTREA": "astrea_ces",
+    "BECERRIL": "becerril_ces",
+    "BOSCONIA": "bosconia_ces",
+    "CHIMICHAGUA": "chimichagua_ces",
+    "CHIRIGUANA": "chiriguaná_ces",
+    "CURUMANI": "curumaní_ces",
+    "EL COPEY": "elcopey_ces",
+    "EL PASO": "elpaso_ces",
+    "GAMARRA": "gamarra_ces",
+    "GONZALEZ": "gonzález_ces",
+    "LA GLORIA": "lagloria_ces",
+    "LA JAGUA DE IBIRICO": "lajaguadeibirico_ces",
+    "LA PAZ": "la_paz_ces",
+    "MANAURE BALCON DEL CESAR": "manaurebalcóndelcesar_ces",
+    "PAILITAS": "pailitas_ces",
+    "PELAYA": "pelaya_ces",
+    "PUEBLO BELLO": "pueblobello_ces",
+    "RIO DE ORO": "ríodeoro_ces",
+    "SAN ALBERTO": "sanalberto_ces",
+    "SAN DIEGO": "sandiego_ces",
+    "SAN MARTIN": "sanmartín_ces",
+    "TAMALAMEQUE": "tamalameque_ces",
+    "VALLEDUPAR": "valledupar_ces"
+  }
+}

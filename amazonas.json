@@ -1,0 +1,16 @@
+{
+  "deparment": "AMAZONAS",
+  "cities": {
+    "EL ENCANTO": "elencanto_ama",
+    "LA CHORRERA": "lachorrera_ama",
+    "LA PEDRERA": "lapedrera_ama",
+    "LA VICTORIA": "lavictoria_ama",
+    "LETICIA": "leticia_ama",
+    "MIRITI - PARANA": "miriti-parana_ama",
+    "PUERTO ALEGRIA": "puertoalegría_ama",
+    "PUERTO ARICA": "puertoarica_ama",
+    "PUERTO NARIÑO": "puertonariño_ama",
+    "PUERTO SANTANDER": "puertosantander_ama",
+    "TARAPACA": "tarapaca_ama"
+  }
+}

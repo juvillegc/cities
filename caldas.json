@@ -1,0 +1,31 @@
+{
+  "deparment": "CALDAS",
+  "cities": {
+    "AGUADAS": "aguadas_cal",
+    "ANSERMA": "anserma_cal",
+    "ARANZAZU": "aranzazu_cal",
+    "BELALCAZAR": "belalcazar_cal",
+    "CHINCHINA": "chinchina_cal",
+    "FILADELFIA": "filadelfia_cal",
+    "LA DORADA": "ladorada_cal",
+    "LA MERCED": "lamerced_cal",
+    "MANIZALES": "manizales_cal",
+    "MANZANARES": "manzanares_cal",
+    "MARMATO": "marmato_cal",
+    "MARQUETALIA": "marquetalia_cal",
+    "MARULANDA": "marulanda_cal",
+    "NEIRA": "neira_cal",
+    "NORCASIA": "norcasia_cal",
+    "PACORA": "pacora_cal",
+    "PALESTINA": "palestina_cal",
+    "PENSILVANIA": "pensilvania_cal",
+    "RIOSUCIO": "riosucio_cal",
+    "RISARALDA": "risaralda_cal",
+    "SALAMINA": "salamina_cal",
+    "SAMANA": "samana_cal",
+    "SAN JOSE": "sanjose_cal",
+    "SUPIA": "supia_cal",
+    "VICTORIA": "victoria_cal",
+    "VILLAMARIA": "villamaria_cal"
+  }
+}

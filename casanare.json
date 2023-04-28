@@ -1,0 +1,24 @@
+{
+  "deparment": "CASANARE",
+  "cities": {
+    "AGUAZUL": "aguazul_cas",
+    "CHAMEZA": "chámeza_cas",
+    "HATO COROZAL": "hatocorozal_cas",
+    "LA SALINA": "lasalina_cas",
+    "MANI": "maní_cas",
+    "MONTERREY": "monterrey_cas",
+    "NUNCHIA": "nunchía_cas",
+    "OROCUE": "orocué_cas",
+    "PAZ DE ARIPORO": "pazdeariporo_cas",
+    "PORE": "pore_cas",
+    "RECETOR": "recetor_cas",
+    "SABANALARGA": "sabanalarga_cas",
+    "SACAMA": "sácama_cas",
+    "SAN LUIS DE PALENQUE": "sanluisdepalenque_cas",
+    "TAMARA": "támara_cas",
+    "TAURAMENA": "tauramena_cas",
+    "TRINIDAD": "trinidad_cas",
+    "VILLANUEVA": "villanueva_cas",
+    "YOPAL": "yopal_cas"
+  }
+}

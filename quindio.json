@@ -1,0 +1,17 @@
+{
+  "deparment": "QUINDIO",
+  "cities": {
+    "ARMENIA": "armenia_quindio",
+    "BUENAVISTA": "buenavista_quindio",
+    "CALARCA": "calarcá_quindio",
+    "CIRCASIA": "circasia_quindio",
+    "CORDOBA": "córdoba_quindio",
+    "FILANDIA": "filandia_quindio",
+    "GENOVA": "génova_quindio",
+    "LA TEBAIDA": "latebaida_quindio",
+    "MONTENEGRO": "montenegro_quindio",
+    "PIJAO": "pijao_quindio",
+    "QUIMBAYA": "quimbaya_quindio",
+    "SALENTO": "salento_quindio"
+  }
+}

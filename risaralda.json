@@ -1,0 +1,19 @@
+{
+  "deparment": "RISARALDA",
+  "cities": {
+    "APIA": "apía_risaralda",
+    "BALBOA": "balboa_risaralda",
+    "BELEN DE UMBRIA": "beléndeumbría_risaralda",
+    "DOSQUEBRADAS": "dosquebradas_risaralda",
+    "GUATICA": "guática_risaralda",
+    "LA CELIA": "lacelia_risaralda",
+    "LA VIRGINIA": "lavirginia_risaralda",
+    "MARSELLA": "marsella_risaralda",
+    "MISTRATO": "mistrató_risaralda",
+    "PEREIRA": "pereira_risaralda",
+    "PUEBLO RICO": "pueblorico_risaralda",
+    "QUINCHIA": "quinchía_risaralda",
+    "SANTA ROSA DE CABAL": "santarosadecabal_risaralda",
+    "SANTUARIO": "santuario_risaralda"
+  }
+}

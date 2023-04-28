@@ -1,0 +1,18 @@
+{
+  "deparment": "PUTUMAYO",
+  "cities": {
+    "COLON": "colón_putum",
+    "MOCOA": "mocoa_putum",
+    "ORITO": "orito_putum",
+    "PUERTO ASIS": "puertoasís_putum",
+    "PUERTO CAICEDO": "puertocaicedo_putum",
+    "PUERTO GUZMAN": "puertoguzmán_putum",
+    "PUERTO LEGUIZAMO": "puertoleguízamo_putum",
+    "SAN FRANCISCO": "sanfrancisco_putum",
+    "SAN MIGUEL": "sanmiguel_putum",
+    "SANTIAGO": "santiago_putum",
+    "SIBUNDOY": "sibundoy_putum",
+    "VALLE DEL GUAMUEZ": "valledelguamuez_putum",
+    "VILLAGARZON": "villagarzón_putum"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "deparment": "VAUPES",
+  "cities": {
+    "CARURU": "carurú_vaupes",
+    "MITU": "mitú_vaupes",
+    "PACOA": "pacoa_vaupes",
+    "PAPUNAUA": "papunaua_vaupes",
+    "TARAIRA": "taraira_vaupes",
+    "YAVARATE": "yavaraté_vaupes"
+  }
+}

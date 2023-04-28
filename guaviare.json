@@ -1,0 +1,9 @@
+{
+  "deparment": "GUAVIARE",
+  "cities": {
+    "CALAMAR": "calamar_guaviare",
+    "EL RETORNO": "el_retorno_guaviare",
+    "MIRAFLORES": "miraflores_guaviare",
+    "SAN JOSE DEL GUAVIARE": "san_josé_del_guaviare"
+  }
+}

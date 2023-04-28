@@ -1,0 +1,7 @@
+{
+  "deparment": "SAN ANDRES Y PROVIDENCIA",
+  "cities": {
+    "SAN ANDRES": "san_andrés",
+    "PROVIDENCIA Y SANTA CATALINA": "providencia_y_santa_catalina"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "deparment": "LA GUAJIRA",
+  "cities": {
+    "ALBANIA": "albania_guajira",
+    "BARRANCAS": "barrancas_guajira",
+    "DIBULLA": "dibulla_guajira",
+    "DISTRACCION": "distracción_guajira",
+    "EL MOLINO": "elmolino_guajira",
+    "FONSECA": "fonseca_guajira",
+    "HATONUEVO": "hatonuevo_guajira",
+    "LA JAGUA DEL PILAR": "lajaguadelpilar_guajira",
+    "MAICAO": "maicao_guajira",
+    "MANAURE": "manaure_guajira",
+    "RIOHACHA": "riohacha_guajira",
+    "SAN JUAN DEL CESAR": "sanjuandelcesar_guajira",
+    "URIBIA": "uribia_guajira",
+    "URUMITA": "urumita_guajira",
+    "VILLANUEVA": "villanueva_guajira"
+  }
+}
